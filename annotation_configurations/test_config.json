@@ -1,0 +1,11 @@
+"entity types": [
+  {
+    "id": "Protein",
+    "color": "#0000FF",
+    "default": true
+  },
+  {
+    "id": "Regulation",
+    "color": "#FF0000",
+  }
+]
